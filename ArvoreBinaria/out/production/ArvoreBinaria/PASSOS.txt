@@ -1,0 +1,4 @@
+1.Fazer um codigo que leaia um txt cheio de codigo morce com as letras do alfabeto e numero d 0 a 9
+2.Fazer um leitor de arquivo que interprete e abre o txt usando bufferREader e fileREader
+3.e fazer uma inteface grafica usando swing
+4
